@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/devananda6200/Useless_ProcrastiNation.git/static/css/main.b57883a8.css",
+    "main.js": "/devananda6200/Useless_ProcrastiNation.git/static/js/main.025f4d33.js",
+    "static/js/453.8ab44547.chunk.js": "/devananda6200/Useless_ProcrastiNation.git/static/js/453.8ab44547.chunk.js",
+    "index.html": "/devananda6200/Useless_ProcrastiNation.git/index.html",
+    "main.b57883a8.css.map": "/devananda6200/Useless_ProcrastiNation.git/static/css/main.b57883a8.css.map",
+    "main.025f4d33.js.map": "/devananda6200/Useless_ProcrastiNation.git/static/js/main.025f4d33.js.map",
+    "453.8ab44547.chunk.js.map": "/devananda6200/Useless_ProcrastiNation.git/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b57883a8.css",
+    "static/js/main.025f4d33.js"
+  ]
+}
